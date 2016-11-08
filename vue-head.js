@@ -4,8 +4,8 @@
   'use strict'
 
   var opt = {
-    complement: window.document.title,
-    separator: '|'
+    complement: '',
+    separator: ''
   }
 
   var diffTitle = {}
